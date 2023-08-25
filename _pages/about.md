@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+***Alexander Ratzan***  
+*Ph.D. Student*  
+*Computer Science*  
+<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="150" height="75"></a>
+<a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="150" height="75"></a>
+<a href="https://vida.engineering.nyu.edu/"><img src="images/vida-logo.png" alt="VIDA" width="150" height="75"></a>
+
 I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering fellow, I am working with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable algorithms to solve problems in neuroscience. 
 
 I am currently interested in translating complex neural and genetic data into lower dimensional representations. In a broader sense, I am interested in solving problems related to brain disorders through computational techniques. 
