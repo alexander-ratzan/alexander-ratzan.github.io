@@ -11,7 +11,6 @@ redirect_from:
 **Alexander Ratzan**   
 *Ph.D. Student*   
 *Computer Science*
-
 <a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="150" height="75"></a>
 <a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="150" height="75"></a>
 <a href="https://vida.engineering.nyu.edu/"><img src="images/vida-logo.png" alt="VIDA" width="150" height="75"></a>
