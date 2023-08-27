@@ -11,15 +11,15 @@ redirect_from:
 **Alexander Ratzan**   
 *Ph.D. Student*   
 *Computer Science*   
-<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a>
-<a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="160" height="80"></a>
+<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a> 
+<a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="160" height="80"></a> 
 <a href="https://vida.engineering.nyu.edu/"><img src="images/vida-logo.png" alt="VIDA" width="160" height="80"></a>
 
 ---
 
 I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering fellow, I am working with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable algorithms to solve problems in neuroscience. 
 
-I am currently interested in translating complex neural and genetic data into lower dimensional representations. In a broader sense, I am interested in solving problems related to brain disorders through computational techniques. 
+I am currently interested in translating complex neural and genetic data into lower dimensional representations. In a broader sense, I'm interested in solving problems related to brain disorders through computational techniques. 
 
 **Research Interests:** large-scale neuroimaging, machine learning, cognitive neuroscience, computational psychiatry/neurology
 
