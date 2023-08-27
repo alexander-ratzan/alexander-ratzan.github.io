@@ -11,9 +11,9 @@ redirect_from:
 **Alexander Ratzan**   
 *Ph.D. Student*   
 *Computer Science*   
-<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="180" height="90"></a>   
-<a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="180" height="90"></a>   
-<a href="https://vida.engineering.nyu.edu/"><img src="images/vida-logo.png" alt="VIDA" width="180" height="90"></a>
+<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a>   
+<a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="160" height="80"></a>   
+<a href="https://vida.engineering.nyu.edu/"><img src="images/vida-logo.png" alt="VIDA" width="160" height="80"></a>
 
 ---
 
@@ -34,12 +34,7 @@ In my free time I enjoy playing soccer, biking, travelling, and supporting Arsen
 
 
 News
-======
-* September '23: Started PhD at New York University
-* April '23: Received National Science Foundation Graduate Research Fellowhsip Program Honorable Mention Award
-* November '22: Presented undergrad research at Society for Neuroscience Conference
-
-
-For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* **September '23:** Started PhD at New York University
+* **April '23:** Received National Science Foundation Graduate Research Fellowhsip Program Honorable Mention Award
+* **November '22:** Presented undergrad research at Society for Neuroscience Conference
