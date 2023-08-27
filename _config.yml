@@ -71,9 +71,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-  - label: "CV"
-    icon: "fas fa-file"
-    url: "https://alexander-ratzan.github.io/CV/"
+  
 
 
 # Analytics
