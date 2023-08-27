@@ -11,9 +11,9 @@ redirect_from:
 **Alexander Ratzan**   
 *Ph.D. Student*   
 *Computer Science*   
-<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a> 
-<a href="https://www.neuroinformaticslab.com/"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="160" height="80"></a> 
-<a href="https://vida.engineering.nyu.edu/"><img src="images/vida-logo.png" alt="VIDA" width="160" height="80"></a>
+<a href="https://engineering.nyu.edu/academics/departments/computer-science-and-engineering" target="_blank" rel="noopener noreferrer"><img src="images/tandon-logo.png" alt="NYU Tandon" width="160" height="80"></a> 
+<a href="https://www.neuroinformaticslab.com/" target="_blank" rel="noopener noreferrer"><img src="images/neuroinformatics-logo.jpg" alt="Neuroinformatics Lab" width="160" height="80"></a> 
+<a href="https://vida.engineering.nyu.edu/" target="_blank" rel="noopener noreferrer"><img src="images/vida-logo.png" alt="VIDA" width="160" height="80"></a>
 
 ---
 
@@ -26,7 +26,7 @@ I am currently interested in translating complex neural and genetic data into lo
 
 Background
 ------
-I received my Bachelor’s degree in Cognitive & Brain Sciences from Tufts University. At Tufts, I worked as an undergraduate research assistant at the [Tufts Human Computer Interaction Lab](https://tufts-hci-lab.github.io/) and the [Integrative Cognitive Neuroscience Lab](https://tuftsiconlab.weebly.com/). I also played on the men’s soccer team at Tufts where I competed for four years and won two DIII National Championships. 
+I received my Bachelor’s degree in Cognitive & Brain Sciences from Tufts University. At Tufts, I worked as an undergraduate research assistant at the [Tufts Human Computer Interaction Lab](https://tufts-hci-lab.github.io/) and the [Integrative Cognitive Neuroscience Lab](https://tuftsiconlab.weebly.com/). I also played on the Tufts men’s soccer team where I competed for four years and won two DIII National Championships. 
 
 After undergrad, I worked as a neuroimaging research technician and data analyst at Columbia University’s Department of Neurology and Biostatistics.
 
