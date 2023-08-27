@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Alexander Ratzan"
   avatar           : "bio-pic.png" # web-bio-pic.png
-  bio              : "PhD Student at NYU"
+  bio              : # "PhD Student at NYU"
   location         : "New York City"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
