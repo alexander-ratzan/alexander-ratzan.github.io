@@ -107,15 +107,15 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/alexander-ratzan-568993190/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :  #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "ar_neuro"
-#  cv:              : "https://alexander-ratzan.github.io/CV/"
+  cv               : "https://alexander-ratzan.github.io/CV/"
   vine             :
   weibo            :
   xing             :
