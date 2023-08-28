@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering fellow, I am working with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable algorithms to solve problems in neuroscience. 
+I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering fellow, I am working with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable methods to solve problems in neuroscience. 
 
 I am currently exploring the relationship between neural connectivity and genetics, and how to visualize this complex data in low-dimensional representations. In a broader sense, I'm interested in solving problems related to brain disorders through computational techniques. 
 
