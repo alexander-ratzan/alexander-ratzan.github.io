@@ -1,6 +1,6 @@
 ---
 title: "Clinical Subtyping of Multiple Sclerosis with SuStaIn"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/clinical_subtypes'><img src='/images/KDE_clinical_features'>"
 collection: portfolio
 ---
 
@@ -9,7 +9,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 ---
 title: "NeuroAnalysis Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/PPA'><img src='/images/2D PPA'><img src='/images/3d PPA.png'>"
 collection: portfolio
 ---
 
@@ -18,7 +18,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 
 ---
 title: "All-NBA Machine Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/NN_NBA_performance.png'><img src='/images/center_feature_performance'>"
 collection: portfolio
 ---
 
