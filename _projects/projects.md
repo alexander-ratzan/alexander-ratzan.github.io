@@ -1,24 +1,22 @@
 ---
 title: "Clinical Subtyping of Multiple Sclerosis with SuStaIn"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/clinical_subtypes'><img src='/images/KDE_clinical_features'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/clinical_subtypes.png'><img src='/images/KDE_clinical_features.png'>"
 collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
 
 ---
 title: "NeuroAnalysis Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/PPA'><img src='/images/2D PPA'><img src='/images/3d PPA.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/PPA.png'><img src='/images/2D_PPA.png'><img src='/images/3D_PPA.png'>"
 collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-
 ---
 title: "All-NBA Machine Learning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/NN_NBA_performance.png'><img src='/images/center_feature_performance'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/NN_NBA_performance.png'><img src='/images/center_feature_performance.png'>"
 collection: portfolio
 ---
 
