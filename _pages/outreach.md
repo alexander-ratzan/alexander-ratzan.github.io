@@ -11,6 +11,6 @@ Some pics from [Saturday Science](https://zuckermaninstitute.columbia.edu/saturd
 
 <img src='/images/sat_science_march1.jpg' width ='350'>
 <img src='/images/sat_science_march2.jpg' width ='350'>
-<img src='/images/sats_science_april.JPG' width='350'>
+<img src='/images/sats_science_april1.JPG' width='350'>
 
 ---
