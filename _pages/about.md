@@ -36,5 +36,5 @@ In my free time I enjoy playing soccer, biking, travelling, and supporting Arsen
 News
 ------
 * **September '23:** Started PhD at New York University
-* **April '23:** Received National Science Foundation Graduate Research Fellowhsip Program Honorable Mention Award
+* **April '23:** Received National Science Foundation Graduate Research Fellowship Program Honorable Mention Award
 * **November '22:** Presented undergrad research at Society for Neuroscience Conference
