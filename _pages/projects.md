@@ -16,6 +16,7 @@ _2022_
 ---
 
 
+
 ### [NeuroAnalysis Project](https://github.com/alexander-ratzan/2020-NeuroAnalysis-Project)
 **Description:** Applied various machine learning techniques (Support Vector Machines, Clustering, Multi-Dimensional  Scaling, Principal Component Analysis) and statistical analysis tools (Representational Similarity Analysis, correlational maps and matrices) to classify, predict, and examine neural data.
 _2020_   
@@ -26,6 +27,7 @@ _2020_
 ###### Figures: Left - Parahippocampal place area mask from which fMRI data was extracted while subjects viewed various items. Middle - 2D representation of fMRI data from PCA. Right - 3D representation of fMRI data from PCA.
 
 ---
+
 
 
 ### [All-NBA Machine Learning](https://github.com/alexander-ratzan/NBA-Machine-Learning)
