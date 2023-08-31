@@ -4,18 +4,22 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Below are a few projects I have worked on with brief descriptions, a sample figures, and links to code. 
+Below are some past and current projects I've worked on...
+
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
-2022
+_2022_
+
 **Description:** I led a project at Columbia University Medical Center to generate informative clinical subtypes in a large dataset of patients with MS. In evaluating the clinical features available, I chose to apply a self-optimized version of SuStaIn (sub typing and staging inference) and identified 3 subtypes that differed in their disease progression as well as demographic and neurophysiological features.
 <img src='/images/clinical_subtypes.png' width ='350'>
 <img src='/images/KDE_clinical_features.png' width='250'>
 ###### Figures: Left - kernel density estimates of clinical features between patients and asymptomatic patients. Right - derived subtypes from patient data. 
 
+---
 
 
 ### [NeuroAnalysis Project](https://github.com/alexander-ratzan/2020-NeuroAnalysis-Project)
-2020
+_2020_
+
 **Description:** Applied various machine learning techniques (Support Vector Machines, Clustering, Multi-Dimensional  Scaling, Principal Component Analysis) and statistical analysis tools (Representational Similarity Analysis, correlational maps and matrices) to classify, predict, and examine neural data.
 <img src='/images/PPA.png' width='250'>
 <br/>
@@ -23,15 +27,19 @@ Below are a few projects I have worked on with brief descriptions, a sample figu
 <img src='/images/3D_PPA.png' width='350'>
 ###### Figures: Left - seed region where fMRI data was extracted from when viewing an item. Middle - 2D representation of data from PCA. Right - 3D representation from PCA.
 
+---
 
 
 ### [All-NBA Machine Learning](https://github.com/alexander-ratzan/NBA-Machine-Learning)
-2019
+_2019_
+
 **Description:** Predicted the 2020 All-NBA team with 87% accuracy using a multi-layer perceptron neural net optimized and trained on 20 seasons of NBA statistics.
 <br/>
 <img src='/images/NN_NBA_performance.png' width='270'>
 <img src='/images/center_feature_performance.png' width='380'>
 ###### Figures: Left - model correctness for 2020 All-NBA team. Right - feature weights for center position (based on a comparable accuracy random forest model trained on same dataset) 
+
+---
 
 <!--
 {% include base_path %}
