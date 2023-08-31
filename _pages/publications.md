@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### Papers & Presentations
+### Papers & Presentations
 **Ratzan, A.**, Simani, L., Dworkin, J., Buyukturkoglu, K., Riley, C.S., Leavitt, V.M. (2023). Characterizing the extended language network in individuals with multiple sclerosis. _Manuscript under review. Preprint: [medr](https://www.medrxiv.org/)._
 
 **Ratzan, A.**, Siegel, M.D., Karanian, J.M., Thomas, A.K, Race, E. (2023). Intrinsic functional connectivity in medial temporal lobe networks is associated with susceptibility to misinformation. _Manuscript under review. Preprint: https://psyarxiv.com/r5j9h. Presented at Society for Neuroscience Conference._
