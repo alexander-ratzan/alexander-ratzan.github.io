@@ -6,13 +6,13 @@ author_profile: true
 ---
 
 ### Papers & Posters
-**Ratzan, A.**, Simani, L., Dworkin, J., Buyukturkoglu, K., Riley, C.S., Leavitt, V.M. (2023). Characterizing the extended language network in individuals with multiple sclerosis. _Manuscript under review. Preprint: [medr](https://www.medrxiv.org/)._
+  * **Ratzan, A.**, Simani, L., Dworkin, J., Buyukturkoglu, K., Riley, C.S., Leavitt, V.M. (2023). Characterizing the extended language network in individuals with multiple sclerosis. _Manuscript under review. Preprint: [medr](https://www.medrxiv.org/)._
 
-**Ratzan, A.**, Siegel, M.D., Karanian, J.M., Thomas, A.K, Race, E. (2023). Intrinsic functional connectivity in medial temporal lobe networks is associated with susceptibility to misinformation. _Manuscript under review. Preprint: [https://psyarxiv.com/r5j9h](https://psyarxiv.com/r5j9h). Presented at Society for Neuroscience Conference._
+  * **Ratzan, A.**, Siegel, M.D., Karanian, J.M., Thomas, A.K, Race, E. (2023). Intrinsic functional connectivity in medial temporal lobe networks is associated with susceptibility to misinformation. _Manuscript under review. Preprint: [https://psyarxiv.com/r5j9h](https://psyarxiv.com/r5j9h). Presented at Society for Neuroscience Conference._
 
-Leavitt, V., Dworkin, J., Makaretz, S., **Ratzan, A.** (2022). Sex differences in cognitive reserve of individuals with multiple sclerosis. _Manuscript under review. Accepted poster at The European Committee for Treatment and Research in Multiple Sclerosis (Selected for 1 of 5 poster prizes out of 1,400 posters)._
+  * Leavitt, V., Dworkin, J., Makaretz, S., **Ratzan, A.** (2022). Sex differences in cognitive reserve of individuals with multiple sclerosis. _Manuscript under review. Accepted poster at The European Committee for Treatment and Research in Multiple Sclerosis (Selected for 1 of 5 poster prizes out of 1,400 posters)._
 
-Buyukturkoglu, K., Lu, L., Yang, H., **Ratzan, A.**, Sideras, P., Leavitt, V.M., Lignelli-Dipple, A., Binsheng, Z., Riley, C.S., De Jager, P. (2022). Thalamic radiomics to predict symbol digit modalities test performance in multiple sclerosis. _Accepted ePoster at The European Committee for Treatment and Research in Multiple Sclerosis._
+  * Buyukturkoglu, K., Lu, L., Yang, H., **Ratzan, A.**, Sideras, P., Leavitt, V.M., Lignelli-Dipple, A., Binsheng, Z., Riley, C.S., De Jager, P. (2022). Thalamic radiomics to predict symbol digit modalities test performance in multiple sclerosis. _Accepted ePoster at The European Committee for Treatment and Research in Multiple Sclerosis._
 
 <!--
 {% if author.googlescholar %}
