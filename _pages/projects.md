@@ -11,7 +11,7 @@ _2022_
 **Description:** I led a project at Columbia University Medical Center to generate informative clinical subtypes in a large dataset of patients with MS. In evaluating the clinical features available, I chose to apply a self-optimized version of SuStaIn (sub typing and staging inference) and identified 3 subtypes that differed in their disease progression as well as demographic and neurophysiological features.
 <img src='/images/clinical_subtypes.png' width ='350'>
 <img src='/images/KDE_clinical_features.png' width='250'>
-###### Figures: Left - kernel density estimates of clinical features between patients and asymptomatic patients. Right - derived subtypes from patient data. 
+###### Figures: Left - derived subtypes from patient data. Right - kernel density estimates of clinical features between patients and asymptomatic patients.
 
 ---
 
@@ -23,7 +23,7 @@ _2020_
 <br/>
 <img src='/images/2D_PPA.png' width='330'>
 <img src='/images/3D_PPA.png' width='330'>
-###### Figures: Left - seed region where fMRI data was extracted from when viewing an item. Middle - 2D representation of data from PCA. Right - 3D representation from PCA.
+###### Figures: Left - Parahippocampal place area mask from which fMRI data was extracted while subjects viewed various items. Middle - 2D representation of fMRI data from PCA. Right - 3D representation of fMRI data from PCA.
 
 ---
 
