@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Below are some past and current projects I've worked on with brief descriptions, sample figures, and links to code.
+Below are some past and current projects I've worked on with brief descriptions, sample figures, and links to code included.
 
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
 **Description:** I led a project at Columbia University Medical Center to generate informative clinical subtypes in a large dataset of patients with MS. In evaluating the clinical features available, I chose to apply a self-optimized version of SuStaIn (sub typing and staging inference) and identified 3 subtypes that differed in their disease progression as well as demographic and neurophysiological features.
