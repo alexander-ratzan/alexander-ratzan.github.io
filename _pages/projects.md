@@ -8,7 +8,7 @@ Below are some past and current projects I've worked on with brief descriptions,
 
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
 **Description:** I led a project at Columbia University Medical Center to generate informative clinical subtypes in a large dataset of patients with MS. In evaluating the clinical features available, I chose to apply a self-optimized version of SuStaIn (sub typing and staging inference) and identified 3 subtypes that differed in their disease progression as well as demographic and neurophysiological features.
-_2022_   
+_2023_   
 <img src='/images/clinical_subtypes.png' width ='350'>
 <img src='/images/KDE_clinical_features.png' width='280'>
 ###### Figures: Left - derived subtypes from patient data showing order of clinical progression. Right - kernel density estimates of clinical features between patients and asymptomatic patients.
