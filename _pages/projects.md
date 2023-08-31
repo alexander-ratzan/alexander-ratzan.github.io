@@ -11,7 +11,7 @@ Below are some past and current projects I've worked on with brief descriptions,
 _2022_   
 <img src='/images/clinical_subtypes.png' width ='350'>
 <img src='/images/KDE_clinical_features.png' width='280'>
-###### Figures: Left - derived subtypes from patient data. Right - kernel density estimates of clinical features between patients and asymptomatic patients.
+###### Figures: Left - derived subtypes from patient data showing order of clinical progression. Right - kernel density estimates of clinical features between patients and asymptomatic patients.
 
 ---
 
