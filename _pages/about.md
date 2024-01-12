@@ -35,6 +35,7 @@ In my free time I enjoy playing soccer, biking, travelling, and supporting Arsen
 
 News
 ------
+* **December '23:** First-author publication accepted at Memory
 * **September '23:** Started PhD at New York University
 * **April '23:** Received National Science Foundation Graduate Research Fellowship Program Honorable Mention Award
 * **November '22:** Presented undergrad research at Society for Neuroscience Conference
