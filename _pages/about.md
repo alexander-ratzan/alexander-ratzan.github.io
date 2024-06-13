@@ -17,11 +17,11 @@ redirect_from:
 
 ---
 
-I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering fellow, I am working with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable methods to solve problems in neuroscience.
+I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering fellow, I am working with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable methods to address unsolved problems in neuroscience.
 
-My current research lies at the intersection of genomics and neuroimaging with the goal of aligning these data types to better understand brain-behavior relationships. This research involves a variety of deep learning, contrastive learning, and graph theoretical methods.
+My research is currently focused on understanding the relationship between genetics and brain connectivity patterns. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets.
 
-More generally, I'm passionate about helping us better understand brain disorders through computational techniques. 
+More generally, I'm curious to learn more about our brains using artificial intelligence, and I hope that my research can contribute to how we understand and treat brain disorders.
 
 **Research Interests:** large-scale neuroimaging, machine learning, computational psychiatry/neurology, cognitive neuroscience
 
@@ -37,6 +37,8 @@ In my free time I enjoy playing soccer, biking, travelling, and supporting Arsen
 
 News
 ------
+* **May '24:** Awarded National Defense Science and Engineering Graduate Fellowship
+* **April '24:** Two publications accepted at Multiple Sclerosis and Related Disorders
 * **December '23:** First-author publication accepted at Memory
 * **September '23:** Started PhD at New York University
 * **April '23:** Received National Science Foundation Graduate Research Fellowship Program Honorable Mention Award
