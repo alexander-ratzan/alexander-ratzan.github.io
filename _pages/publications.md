@@ -6,10 +6,24 @@ author_profile: true
 ---
 
 ### Papers & Posters
-  * **Ratzan, A.**, Simani, L., Dworkin, J., Buyukturkoglu, K., Riley, C.S., Leavitt, V.M. (2023). Characterizing the extended language network in individuals with multiple sclerosis. _Manuscript under review. Preprint: [https://www.medrxiv.org/content/10.1101/2023.08.30.23294843v1](https://www.medrxiv.org/content/10.1101/2023.08.30.23294843v1)._
-  * **Ratzan, A.**, Siegel, M.D., Karanian, J.M., Thomas, A.K, Race, E. (2023). Intrinsic functional connectivity in medial temporal lobe networks is associated with susceptibility to misinformation. _Memory_  [https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2298921](https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2298921)
-  * Leavitt, V., Dworkin, J., Makaretz, S., **Ratzan, A.** (2022). Sex differences in cognitive reserve of individuals with multiple sclerosis. _Manuscript under review. Accepted poster at The European Committee for Treatment and Research in Multiple Sclerosis (Selected for 1 of 5 poster prizes out of 1,400 posters)._
-  * Buyukturkoglu, K., Lu, L., Yang, H., **Ratzan, A.**, Sideras, P., Leavitt, V.M., Lignelli-Dipple, A., Binsheng, Z., Riley, C.S., De Jager, P. (2022). Thalamic radiomics to predict symbol digit modalities test performance in multiple sclerosis. _Accepted ePoster at The European Committee for Treatment and Research in Multiple Sclerosis._
+  * **Ratzan, A.**, Dong, J., Faizal, S., Raj, R., Varol, E. (2024). Predicting the Resting-State Functional Connectome
+from Regional Gene Expression in Human Population Datasets. _Submitted to Society for Neuroscience_
+  * Leavitt, V.M., Dworkin, J., Kalina, T., **Ratzan, A**. (2024). Sex differences in brain resilience of individuals with
+multiple sclerosis. _Multiple Sclerosis and Related Disorders_
+[https://www.sciencedirect.com/science/article/pii/S2211034824002232](https://www.sciencedirect.com/science/article/pii/S2211034824002232)
+  * Leavitt, V.M., Dworkin, J., Galioto, R., **Ratzan, A**. (2024) Disparities in DMT treatment: Demographic and
+neurocognitive differences between MS patients currently treated versus not treated with disease-modifying
+therapies. _Multiple Sclerosis and Related Disorders_
+[https://www.sciencedirect.com/science/article/pii/S2211034824000877](https://www.sciencedirect.com/science/article/pii/S2211034824000877)
+  * **Ratzan, A.**, Siegel, M.D., Karanian, J.M., Thomas, A.K, Race, E. (2023). Intrinsic functional connectivity in
+medial temporal lobe networks is associated with susceptibility to misinformation. _Memory_ [https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2298921](https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2298921)
+  * **Ratzan, A.**, Simani, L., Dworkin, J., Buyukturkoglu, K., Riley, C.S., Leavitt, V.M. (2023). Characterizing the
+extended language network in individuals with multiple sclerosis. _Accepted poster at Americas Committee for
+Treatment and Research in Multiple Sclerosis_ Preprint:
+[https://www.medrxiv.org/content/10.1101/2023.08.30.23294843v1](https://www.medrxiv.org/content/10.1101/2023.08.30.23294843v1).
+  * Buyukturkoglu, K., Lu, L., Yang, H., **Ratzan, A.**, Sideras, P., Leavitt, V.M., Lignelli-Dipple, A., Binsheng, Z.,
+Riley, C.S., De Jager, P. (2022). Thalamus-derived Radiomic Features to Predict Symbol-Digit Modalities Test
+Results in MS. _Accepted ePoster at The European Committee for Treatment and Research in Multiple Sclerosis._
 
 <!--
 {% if author.googlescholar %}
