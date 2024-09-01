@@ -17,10 +17,12 @@ _In Progress_
 
 
 ### [Generalizable Deep Learning for a Handwriting BCI Decoder](https://www.kaggle.com/code/alexanderratzan/handwriting-bci-neuromatch-project)
-**Description:** The act of imagining handwriting generates neural activity patterns in the hand motor cortex area that can be decoded with BCIs to generate letters and words. Improving deep learning models to decode neural activity provides a promising avenue for restoring real-time communication for individuals suffering from paralysis and motor-related disorders. In this project, we trained CNN and RNN models to decode handwriting at high accuracy without daily recalibriation, building on [research](https://www.nature.com/articles/s41586-021-03506-2) by Willet et al., 2021. This project was completed throughout the neuromatch academy deep learning course. 
-_2024_ 
+**Description:** The act of imagining handwriting generates neural activity patterns in the hand motor cortex area that can be decoded with BCIs to generate letters and words. Improving deep learning models to decode neural activity provides a promising avenue for restoring real-time communication for individuals suffering from paralysis and motor-related disorders. In this project, we trained CNN and RNN models to decode handwriting at high accuracy without daily recalibriation, building on [research](https://www.nature.com/articles/s41586-021-03506-2) by Willet et al., 2021. This project was completed throughout the neuromatch academy deep learning course.
+_2024_
+<br/>
 <img src='/images/willet_schematic.png' width ='300'>
-<img src='/images/CNN_RNN_handwriting.png' width ='300'>
+<br/>
+<img src='/images/CNN_RNN_handwriting.png' width ='600'>
 ###### Figures: Top - experiment schematic showing microelectrode array capturing signals from motor cortex. Bottom - CNN and RNN architectures and days after training performance curves.
 ---
 
