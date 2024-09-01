@@ -4,6 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
+Below are some past and current side projects (not directly related to my thesis work) that I've worked on with brief descriptions, sample figures, and links to code/slide decks.
 
 
 ### [Disease Gene Classification](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
@@ -30,10 +31,6 @@ _2024_
 _
 ###### Figures: Top - phylogenetic tree schematic. Sagitall cross-section of brain highlighting the anterior cingulate cortex (11) and cerebellar white matter (28). Bottom - Enriched GO terms for differentlially expressed genes in the cerebellar white matter. Functional module plot created with [humanbase](https://hb.flatironinstitute.org/).
 ---
-
-
-
-Below are some past and current side projects (not directly related to my thesis work) that I've worked on with brief descriptions, sample figures, and links to code/slide decks.
 
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
 **Description:** This project is in collaboration with Columbia University Medical Center (Dr. Victoria Leavitt). The objective of the project is to derive subtypes and subtype stages based solely on clinical data from a large longitudinal cohort of patients with Multiple Sclerosis (MS). We specifically focus on behavioral clinical data that can be recorded at clinical visits. To derive subtypes that differ both phenotypically and temporally, we combine two related methods - Subtype and Stage Inference with Temporal Event-Based Modeling. In this ongoing work, we have fit preliminary models to identify 3 subtypes that differ in their disease progression as well as demographic and neurophysiological features. The final model should be able to assign an unseen patient to a given subtype and accurately predict biomarker progression.
