@@ -5,7 +5,25 @@ permalink: /projects/
 author_profile: true
 ---
 
-### [Intracortical Gene Expression across Primate Species ](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
+
+### [Disease Gene Classification](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
+**Description:** 	In collaboration with Johns Hopkins University School of Medicine (Dr. Sandeep Wontakal), an expansive gene network was created, capturing diverse interactions of orthologous genes across 7 species. Gene properties and interactions were organized into a graph. Computational methods are being developed to leverage graph properties to probabilistically assign unclassified genes as disease related or non-disease related genes. 
+_In Progress_ 
+<img src='/images/genenet_umap.png' width ='600'>
+_
+###### Figures: node2vec was applied to each gene in the graph to generate embeddings. The embeddings were then visualized using UMAP. This visualization represents 4000 nodes and 40,000 edges. 
+---
+
+### [Generalizable Deep Learning for a Handwriting BCI Decoder](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
+
+_In Progress_ 
+<img src='/images/genenet_umap.png' width ='600'>
+_
+###### Figures:  
+---
+
+
+### [Intracortical Gene Expression across Primate Species](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
 **Description:** 	In comparison to close evolutionary relatives, the human brain has distinct properties from a biological and behavioral standpoint. The present study aims to highlight differences in orthologous gene expression patterns between humans and chimpanzees. Focusing on two regions with central roles in cognition, the anterior cingulate cortex and cerebellar white matter, differential expression analysis identified sets of human-specific overexpressed genes in each region respectively. These gene expression patterns shed light on the evolutionary functional changes acquired in the human lineage beyond gene duplication events. 
 _2024_ 
 <img src='/images/primate_fig.png' width ='800'>
@@ -18,7 +36,7 @@ _
 Below are some past and current side projects (not directly related to my thesis work) that I've worked on with brief descriptions, sample figures, and links to code/slide decks.
 
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
-**Description:** This project is in collaboration with Columbia University Medical Center. The objective of the project is to derive subtypes and subtype stages based solely on clinical data from a large longitudinal cohort of patients with Multiple Sclerosis (MS). We specifically focus on behavioral clinical data that can be recorded at clinical visits. To derive subtypes that differ both phenotypically and temporally, we combine two related methods - Subtype and Stage Inference with Temporal Event-Based Modeling. In this ongoing work, we have fit preliminary models to identify 3 subtypes that differ in their disease progression as well as demographic and neurophysiological features. The final model should be able to assign an unseen patient to a given subtype and accurately predict biomarker progression.
+**Description:** This project is in collaboration with Columbia University Medical Center (Dr. Victoria Leavitt). The objective of the project is to derive subtypes and subtype stages based solely on clinical data from a large longitudinal cohort of patients with Multiple Sclerosis (MS). We specifically focus on behavioral clinical data that can be recorded at clinical visits. To derive subtypes that differ both phenotypically and temporally, we combine two related methods - Subtype and Stage Inference with Temporal Event-Based Modeling. In this ongoing work, we have fit preliminary models to identify 3 subtypes that differ in their disease progression as well as demographic and neurophysiological features. The final model should be able to assign an unseen patient to a given subtype and accurately predict biomarker progression.
 _In Progress_   
 <img src='/images/clinical_subtypes.png' width ='500'>
 <br/>
