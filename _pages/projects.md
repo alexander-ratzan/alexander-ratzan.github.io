@@ -4,15 +4,26 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Below are some past and current side projects I've worked on with brief descriptions, sample figures, and links to code/slide decks. These projects are generally not directly related to my thesis work.
+
+### [Intracortical Gene Expression across Primate Species ](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
+**Description:** 	In comparison to close evolutionary relatives, the human brain has distinct properties from a biological and behavioral standpoint. The present study aims to highlight differences in orthologous gene expression patterns between humans and chimpanzees. Focusing on two regions with central roles in cognition, the anterior cingulate cortex and cerebellar white matter, differential expression analysis identified sets of human-specific overexpressed genes in each region respectively. These gene expression patterns shed light on the evolutionary functional changes acquired in the human lineage beyond gene duplication events. 
+_2024_ 
+<img src='/images/primate_fig.png' width ='800'>
+_
+###### Figures: Top - phylogenetic tree schematic. Sagitall cross-section of brain highlighting the anterior cingulate cortex (11) and cerebellar white matter (28). Bottom - Enriched GO terms for differentlially expressed genes in the cerebellar white matter. Functional module plot created with [humanbase](https://hb.flatironinstitute.org/).
+---
+
+
+
+Below are some past and current side projects (not directly related to my thesis work) that I've worked on with brief descriptions, sample figures, and links to code/slide decks.
 
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
-**Description:** This project is in collaboration with Columbia University Medical Center. The objective of the project is to derive subtypes and subtype stages based solely on clinical data from a large longitudinal cohort of patients with Multiple Sclerosis (MS). We specifically focus on behavioral clinical data that can be recorded at clinical visits. To derive subtypes that differ both phenotypically and temporally, we combine two related methods, Subtype and Stage Inference with Temporal Event-Based Modeling. In this ongoing work, we have fit preliminary models to identify 3 subtypes that differ in their disease progression as well as demographic and neurophysiological features. The ultimate goal is to develop our model to assign an unseen patient into a subtype in order to accurately predict their biomarker progression. 
+**Description:** This project is in collaboration with Columbia University Medical Center. The objective of the project is to derive subtypes and subtype stages based solely on clinical data from a large longitudinal cohort of patients with Multiple Sclerosis (MS). We specifically focus on behavioral clinical data that can be recorded at clinical visits. To derive subtypes that differ both phenotypically and temporally, we combine two related methods - Subtype and Stage Inference with Temporal Event-Based Modeling. In this ongoing work, we have fit preliminary models to identify 3 subtypes that differ in their disease progression as well as demographic and neurophysiological features. The final model should be able to assign an unseen patient to a given subtype and accurately predict biomarker progression.
 _In Progress_   
-<img src='/images/clinical_subtypes.png' width ='450'>
+<img src='/images/clinical_subtypes.png' width ='500'>
 <br/>
-<img src='/images/KDE_clinical_features.png' width='280'>
-<img src='/images/SuStaIn_ternary_plot.png' width='280'>
+<img src='/images/KDE_clinical_features.png' width='300'>
+<img src='/images/SuStaIn_ternary_plot.png' width='300'>
 _
 ###### Figures: Top - derived subtypes from patient data showing order of clinical progression. Left - kernel density estimates of clinical features between patients and asymptomatic patients. Right - Each point corresponds to a single subject and the location in the triangle reflects confidence of assignment to each subtype.
 ---
