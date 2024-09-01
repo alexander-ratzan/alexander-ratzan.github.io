@@ -4,13 +4,16 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Below are some past and current projects I've worked on with brief descriptions, sample figures, and links to code included.
+Below are some past and current side projects I've worked on with brief descriptions, sample figures, and links to code/slide decks. These projects are generally not directly related to my thesis work.
 
 ### [Clinical Subtyping of Multiple Sclerosis with SuStaIn](https://github.com/LeavittLabCUMC/SuStaIn_Clustering)
-**Description:** I led a project at Columbia University Medical Center to generate informative clinical subtypes in a large dataset of patients with MS. In evaluating the clinical features available, I chose to apply a self-optimized version of SuStaIn (sub typing and staging inference) and identified 3 subtypes that differed in their disease progression as well as demographic and neurophysiological features.
-_2023_   
-<img src='/images/clinical_subtypes.png' width ='350'>
+**Description:** This project is in collaboration with Columbia University Medical Center. The objective of the project is to derive subtypes and subtype stages based solely on clinical data from a large longitudinal cohort of patients with Multiple Sclerosis (MS). We specifically focus on behavioral clinical data that can be recorded at clinical visits. To derive subtypes that differ both phenotypically and temporally, we combine two related methods, Subtype and Stage Inference with Temporal Event-Based Modeling. In this ongoing work, we have fit preliminary models to identify 3 subtypes that differ in their disease progression as well as demographic and neurophysiological features. The ultimate goal is to develop our model to assign an unseen patient into a subtype in order to accurately predict their biomarker progression. 
+_In Progress_   
+<img src='/images/clinical_subtypes.png' width ='450'>
+<\br>
 <img src='/images/KDE_clinical_features.png' width='280'>
+<img src='/images/KDE_clinical_features.png' width='280'>
+_
 ###### Figures: Left - derived subtypes from patient data showing order of clinical progression. Right - kernel density estimates of clinical features between patients and asymptomatic patients.
 
 ---
