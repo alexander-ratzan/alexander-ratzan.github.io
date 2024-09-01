@@ -22,7 +22,7 @@ _2024_
 <br/>
 <img src='/images/willet_schematic.png' width ='300'>
 <br/>
-<img src='/images/CNN_RNN_handwriting.png' width ='600'>
+<img src='/images/CNN_RNN_handwriting.png' width ='700'>
 ###### Figures: Top - experiment schematic showing microelectrode array capturing signals from motor cortex. Bottom - CNN and RNN architectures and days after training performance curves.
 ---
 
