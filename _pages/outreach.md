@@ -4,6 +4,8 @@ title: "Outreach & Mentorship"
 permalink: /outreach/
 author_profile: true
 ---
+
+---
 Outreach
 ------
 Feel free to reach out about any science outreach opportunities! I love sharing my passion for neuroscience and computer science with aspiring young scientists. 
@@ -16,7 +18,6 @@ Some pics from [Saturday Science](https://zuckermaninstitute.columbia.edu/saturd
 <img src='/images/sats_science_april1.JPG' width='300'>
 
 ---
-
 Mentorship
 ------
 * Rishabh Raj (Master's student. Affiliation: NYU Tandon CSE)
