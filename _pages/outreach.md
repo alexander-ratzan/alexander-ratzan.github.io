@@ -17,10 +17,7 @@ Some pics from [Saturday Science](https://zuckermaninstitute.columbia.edu/saturd
 
 Mentorship
 ------
-* Rishabh Raj
-  * Master's student. Affiliation: NYU Tandon CSE)
-* Anusha Kumar
-  * Highschool intern. Affiliation: Horace Mann High School
-* Sean Traynor
-  * Software developer at Columbia University Irving Medical Center. Affiliation: Tufts University
+* Rishabh Raj (Master's student. Affiliation: NYU Tandon CSE)
+* Anusha Kumar (Highschool intern. Affiliation: Horace Mann High School)
+* Sean Traynor (Software developer at Columbia University Irving Medical Center. Affiliation: Tufts University)
   
