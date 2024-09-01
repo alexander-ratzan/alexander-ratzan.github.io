@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: "Outreach"
+title: 
 permalink: /outreach/
 author_profile: true
 ---
+
+Outreach
+------
 Feel free to reach out about any science outreach opportunities! I love sharing my passion for neuroscience and computer science with aspiring young scientists. 
 
 ### [Columbia University Neuroscience Outreach](https://cuno.zuckermaninstitute.columbia.edu/)
@@ -12,8 +15,6 @@ Some pics from [Saturday Science](https://zuckermaninstitute.columbia.edu/saturd
 <img src='/images/sat_science_march1.jpg' width ='300'>
 <img src='/images/sat_science_march2.jpg' width ='300'>
 <img src='/images/sats_science_april1.JPG' width='300'>
-
----
 
 Mentorship
 ------
