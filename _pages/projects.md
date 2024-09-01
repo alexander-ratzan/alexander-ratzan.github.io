@@ -7,20 +7,21 @@ author_profile: true
 Below are some past and current side projects (not directly related to my thesis work) that I've worked on with brief descriptions, sample figures, and links to code/slide decks.
 
 
-### [Disease Gene Classification](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
+### [Disease Gene Classification](https://github.com/alexander-ratzan/disease_gene_classification)
 **Description:** 	In collaboration with Johns Hopkins University School of Medicine (Dr. Sandeep Wontakal), an expansive gene network was created, capturing diverse interactions of orthologous genes across 7 species. Gene properties and interactions were organized into a graph. Computational methods are being developed to leverage graph properties to probabilistically assign unclassified genes as disease related or non-disease related genes. 
-_In Progress_ 
-<img src='/images/genenet_umap.png' width ='600'>
-_
+_In Progress_
+<img src='/images/genenet_umap.png' width ='400'>
 ###### Figures: node2vec was applied to each gene in the graph to generate embeddings. The embeddings were then visualized using UMAP. This visualization represents 4000 nodes and 40,000 edges. 
 ---
 
-### [Generalizable Deep Learning for a Handwriting BCI Decoder](https://docs.google.com/presentation/d/1FeLs4BjY18BV7PQdSf4ppqKBKcVN6mqtPCV0NioJcsM/edit?usp=sharing)
 
-_In Progress_ 
-<img src='/images/genenet_umap.png' width ='600'>
-_
-###### Figures:  
+
+### [Generalizable Deep Learning for a Handwriting BCI Decoder](https://www.kaggle.com/code/alexanderratzan/handwriting-bci-neuromatch-project)
+**Description:** The act of imagining handwriting generates neural activity patterns in the hand motor cortex area that can be decoded with BCIs to generate letters and words. Improving deep learning models to decode neural activity provides a promising avenue for restoring real-time communication for individuals suffering from paralysis and motor-related disorders. In this project, we trained CNN and RNN models to decode handwriting at high accuracy without daily recalibriation, building on [research](https://www.nature.com/articles/s41586-021-03506-2) by Willet et al., 2021. This project was completed throughout the neuromatch academy deep learning course. 
+_2024_ 
+<img src='/images/willet_schematic.png' width ='300'>
+<img src='/images/CNN_RNN_handwriting.png' width ='300'>
+###### Figures: Top - experiment schematic showing microelectrode array capturing signals from motor cortex. Bottom - CNN and RNN architectures and days after training performance curves.
 ---
 
 
@@ -28,7 +29,6 @@ _
 **Description:** 	In comparison to close evolutionary relatives, the human brain has distinct properties from a biological and behavioral standpoint. The present study aims to highlight differences in orthologous gene expression patterns between humans and chimpanzees. Focusing on two regions with central roles in cognition, the anterior cingulate cortex and cerebellar white matter, differential expression analysis identified sets of human-specific overexpressed genes in each region respectively. These gene expression patterns shed light on the evolutionary functional changes acquired in the human lineage beyond gene duplication events. 
 _2024_ 
 <img src='/images/primate_fig.png' width ='800'>
-_
 ###### Figures: Top - phylogenetic tree schematic. Sagitall cross-section of brain highlighting the anterior cingulate cortex (11) and cerebellar white matter (28). Bottom - Enriched GO terms for differentlially expressed genes in the cerebellar white matter. Functional module plot created with [humanbase](https://hb.flatironinstitute.org/).
 ---
 
@@ -39,10 +39,8 @@ _In Progress_
 <br/>
 <img src='/images/KDE_clinical_features.png' width='300'>
 <img src='/images/SuStaIn_ternary_plot.png' width='300'>
-_
 ###### Figures: Top - derived subtypes from patient data showing order of clinical progression. Left - kernel density estimates of clinical features between patients and asymptomatic patients. Right - Each point corresponds to a single subject and the location in the triangle reflects confidence of assignment to each subtype.
 ---
-
 
 
 ### [NeuroAnalysis Project](https://github.com/alexander-ratzan/2020-NeuroAnalysis-Project)
@@ -55,7 +53,6 @@ _2020_
 ###### Figures: Left - Parahippocampal place area mask from which fMRI data was extracted while subjects viewed various items. Middle - 2D representation of fMRI data from PCA. Right - 3D representation of fMRI data from PCA.
 
 ---
-
 
 
 ### [All-NBA Machine Learning](https://github.com/alexander-ratzan/NBA-Machine-Learning)
