@@ -10,6 +10,7 @@ Below are some past and current side projects (not directly related to my thesis
 ### [Disease Gene Classification](https://github.com/alexander-ratzan/disease_gene_classification)
 **Description:** 	In collaboration with Johns Hopkins University School of Medicine (Dr. Sandeep Wontakal), an expansive gene network was created, capturing diverse interactions of orthologous genes across 7 species. Gene properties and interactions were organized into a graph. Computational methods are being developed to leverage graph properties to probabilistically assign unclassified genes as disease related or non-disease related genes. 
 _In Progress_
+<br/>
 <img src='/images/genenet_umap.png' width ='400'>
 ###### Figures: node2vec was applied to each gene in the graph to generate embeddings. The embeddings were then visualized using UMAP. This visualization represents 4000 nodes and 40,000 edges. 
 ---
