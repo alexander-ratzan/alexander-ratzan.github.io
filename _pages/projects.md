@@ -12,10 +12,9 @@ _In Progress_
 <img src='/images/clinical_subtypes.png' width ='450'>
 <br/>
 <img src='/images/KDE_clinical_features.png' width='280'>
-<img src='/images/KDE_clinical_features.png' width='280'>
+<img src='/images/SuStaIn_ternary_plot.png' width='280'>
 _
-###### Figures: Left - derived subtypes from patient data showing order of clinical progression. Right - kernel density estimates of clinical features between patients and asymptomatic patients.
-
+###### Figures: Top - derived subtypes from patient data showing order of clinical progression. Left - kernel density estimates of clinical features between patients and asymptomatic patients. Right - Each point corresponds to a single subject and the location in the triangle reflects confidence of assignment to each subtype.
 ---
 
 
