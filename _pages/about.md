@@ -23,7 +23,7 @@ My research is currently focused on understanding the relationship between genet
 
 More generally, I'm curious to learn more about our brains using artificial intelligence, and I hope that my research can contribute to how we understand and treat brain disorders.
 
-**Research Interests:** large-scale neuroimaging, machine learning, computational psychiatry/neurology, cognitive neuroscience
+**Research Interests:** computational neuroscience, machine learning, neuroimaging, genomics, computational psychiatry/neurology, cognitive neuroscience
 
 
 Background
@@ -32,7 +32,7 @@ I received my Bachelor’s degree in Cognitive & Brain Sciences from Tufts Unive
 
 After undergrad, I worked as a neuroimaging research technician and data analyst at Columbia University’s Department of Neurology and Biostatistics.
 
-In my free time I enjoy playing soccer, biking, travelling, and supporting Arsenal FC.
+In my free time I enjoy biking, travelling, and supporting Arsenal FC.
 
 
 News
