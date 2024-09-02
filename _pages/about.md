@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering and NDSEG fellow, I work with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable methods to address unsolved problems in neuroscience.
+I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As a School of Engineering and [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellow, I work with [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) to develop novel, efficient, and scalable methods to address unsolved problems in neuroscience.
 
 My research is currently focused on understanding the relationship between genetics and brain connectivity patterns. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets.
 
