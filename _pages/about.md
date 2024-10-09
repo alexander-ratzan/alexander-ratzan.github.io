@@ -19,9 +19,9 @@ redirect_from:
 
 I’m Alex, a first year PhD student at NYU Tandon School of Engineering. As an [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellow, I work in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) advised by [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) to develop novel, efficient, and scalable methods to address unsolved problems in neuroscience.
 
-My research is currently focused on understanding the relationship between genetics and brain connectivity patterns. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets. 
+My research is currently focused on understanding the relationship between genetics and brain connectivity patterns, an avenue that can impact how we treat brain disorders. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets.
 
-More generally, I'm curious to learn more about our brains using artificial intelligence, and I hope that my research can contribute to how we understand and treat brain disorders.
+More broadly, I’m curious about the intersection of natural and artificial intelligence and how we can improve AI models to benefit human health.
 
 **Research Interests:** computational neuroscience, machine learning, neuroimaging, genomics
 
