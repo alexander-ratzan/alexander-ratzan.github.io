@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-Below are some past and current side projects (not directly related to my thesis work) that I've worked on with brief descriptions, sample figures, and links to code/slide decks.
+Below are some of my side projects that are not directly related to my thesis. Titles are linked to repos/slide decks when available.
 
 
 ### [Disease Gene Classification](https://github.com/alexander-ratzan/disease_gene_classification)
