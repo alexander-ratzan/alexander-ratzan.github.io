@@ -9,6 +9,9 @@ author_profile: true
   * **Ratzan, A.**, Dong, J., Faizal, S., Raj, R., Varol, E. (2024). Predicting the Resting-State Functional Connectome
 from Regional Gene Expression in Human Population Datasets. _Society for Neuroscience_
   * **Ratzan, A.**, Patel, M., Galioto, R., Hancock L., Leavitt V.M. (2024). Deriving clinical subtypes with unsupervised learning and event-based modeling from a large multiple-sclerosis cohort. _Manuscript in preparation_
+  * Simani, L., Tozlu, C., Lee, S., Dworkin, J., **Ratzan, A.**, Buyukturkoglu, K., Onomichi, K., Mata, J., Riley, C.S., Leavitt,
+V.M. (2025). Longitudinal investigation of neuroimaging changes related to memory decline in multiple sclerosis: Testing
+a mechanistic model. Multiple Sclerosis Journal
   * Leavitt, V.M., Dworkin, J., Kalina, T., **Ratzan, A**. (2024). Sex differences in brain resilience of individuals with
 multiple sclerosis. _Multiple Sclerosis and Related Disorders_
 [https://www.sciencedirect.com/science/article/pii/S2211034824002232](https://www.sciencedirect.com/science/article/pii/S2211034824002232)
