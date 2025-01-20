@@ -17,11 +17,11 @@ redirect_from:
 
 ---
 
-I’m currently a PhD student at NYU Tandon School of Engineering. As an [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellow, I work in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) advised by [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) to develop novel, efficient, and scalable methods to address unsolved problems in neuroscience.
+I am currently a Ph.D. student in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) at NYU advised by [Dr. Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) where I develop novel, efficient, and scalable methods to analyze neural and genomic data.
 
-My research is currently focused on understanding the relationship between genetics and brain connectivity patterns, an avenue that can impact how we treat brain disorders. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets.
+My research is currently focused on uncovering the relationship between genetics and brain connectivity patterns, an avenue that can impact how we treat brain disorders. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets. This research is funded under the [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellowship.
 
-More broadly, I’m curious about the intersection of natural and artificial intelligence and how we can improve AI models to benefit human health.
+More broadly, I’m curious about the intersection of natural and artificial intelligence and how we can improve AI systems to benefit human health.
 
 **Research Interests:** computational neuroscience, machine learning, neuroimaging, genomics
 
@@ -37,9 +37,10 @@ In my free time I enjoy biking, travelling, and supporting Arsenal FC.
 
 News
 ------
+* **November '24:** Presented first-year PhD research at Society for Neuroscience Conference 2024
 * **May '24:** Awarded National Defense Science and Engineering Graduate Fellowship ([NYU Tandon is now home to a National Defense Science and Engineering Graduate Fellow](https://engineering.nyu.edu/news/nyu-tandon-now-home-national-defense-science-and-engineering-graduate-fellow)) 
 * **April '24:** Two publications accepted at Multiple Sclerosis and Related Disorders
 * **December '23:** First-author publication accepted at Memory
 * **September '23:** Started PhD at New York University
 * **April '23:** Received National Science Foundation Graduate Research Fellowship Program Honorable Mention Award
-* **November '22:** Presented undergrad research at Society for Neuroscience Conference
+* **November '22:** Presented undergrad research at Society for Neuroscience Conference 2022
