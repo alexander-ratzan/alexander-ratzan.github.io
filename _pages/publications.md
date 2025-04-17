@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Check my Google Scholar for most up to date publications: https://scholar.google.com/citations?user=8UuFrz8AAAAJ&hl=en&oi=ao
+
 ### Papers & Posters
   * **Ratzan, A.**, Dong, J., Faizal, S., Raj, R., Varol, E. (2024). Predicting the Resting-State Functional Connectome
 from Regional Gene Expression in Human Population Datasets. _Society for Neuroscience_
