@@ -243,7 +243,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  _projects
+  # _projects
   - scope:
       path: ""
       type: projects
@@ -252,7 +252,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  _talks
+  # _talks
   - scope:
       path: ""
       type: talks
