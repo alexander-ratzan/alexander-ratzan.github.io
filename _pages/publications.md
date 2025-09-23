@@ -8,6 +8,8 @@ author_profile: true
 Checkout my [Google Scholar](https://scholar.google.com/citations?user=8UuFrz8AAAAJ&hl=en&oi=ao) for most up to date publications.
 
 ### Papers & Posters
+  * **Ratzan, A.**, Goel, S., Srinivasan, D., Wen, J., Davatzikos, C., Varol, E.  (2025). Predicting Functional Brain Connectivity
+with a Context-Aware Spatiomolecular Transformer. _Neural Information Processing Systems (NeurIPS)_
   * **Ratzan, A.**, Dong, J., Faizal, S., Raj, R., Varol, E. (2024). Predicting the Resting-State Functional Connectome
 from Regional Gene Expression in Human Population Datasets. _Society for Neuroscience_
   * **Ratzan, A.**, Patel, M., Galioto, R., Hancock L., Leavitt V.M. (2024). Deriving clinical subtypes with unsupervised learning and event-based modeling from a large multiple-sclerosis cohort. _Manuscript in preparation_
