@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate in the [Neuroinformatics Lab](https://www.neuroinformaticslab.com/) at NYU advised by [Erdem Varol](https://scholar.google.com/citations?user=7GlElV0AAAAJ&hl=en) where I develop novel, efficient, and scalable methods to analyze neural and genomic data. 
 
-My research is focused on uncovering the relationship between genetics and brain connectivity patterns, an avenue that can impact how we treat brain disorders. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets. My research is supported by the [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellowship.
+My research is focused on uncovering the relationship between genetics and brain connectivity patterns, an avenue that can impact how we treat brain disorders and shed light on the fundamental principles of biological neural networks. I approach this research problem by applying techniques from statistical machine learning, graph-theory, and deep learning to large genomic and neuroimaging datasets. My research is supported by the [NDSEG](https://en.wikipedia.org/wiki/DoD_NDSEG_Fellowship) fellowship.
 
 More broadly, I’m curious about the intersection of natural and artificial intelligence and how we can improve AI systems to benefit human health.
 
