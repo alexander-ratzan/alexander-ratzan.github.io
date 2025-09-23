@@ -39,13 +39,10 @@ News
 ------
 * **September '25:** First-author publication accepted at Neural Information Processing Systems (NeurIPS) 2025
 * **June '25:** Visiting [PennLINC](https://www.pennlinc.io/) lab for the summer
----
 * **November '24:** Presented first-year PhD research at Society for Neuroscience Conference 2024
 * **May '24:** Awarded National Defense Science and Engineering Graduate Fellowship ([NYU Tandon is now home to a National Defense Science and Engineering Graduate Fellow](https://engineering.nyu.edu/news/nyu-tandon-now-home-national-defense-science-and-engineering-graduate-fellow)) 
 * **April '24:** Two publications accepted at Multiple Sclerosis and Related Disorders
----
 * **December '23:** First-author publication accepted at Memory
 * **September '23:** Started PhD at New York University
 * **April '23:** Received National Science Foundation Graduate Research Fellowship Program Honorable Mention Award
----
 * **November '22:** Presented undergraduate research at Society for Neuroscience Conference 2022
