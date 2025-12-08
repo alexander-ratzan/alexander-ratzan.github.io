@@ -23,7 +23,7 @@ My research is focused on uncovering the relationship between genetics and brain
 
 More broadly, I’m curious about the intersection of natural and artificial intelligence and how we can improve AI systems to benefit human health.
 
-**Research Interests:** computational neuroscience, machine learning, artificial intelligence, neuroimaging, genomics
+**Research Interests:** computational neuroscience, artificial intelligence, neuroimaging, genomics, deep learning for complex networks, genomic foundation models
 
 
 Background
@@ -37,7 +37,7 @@ In my free time I enjoy biking, travelling, and supporting Arsenal FC.
 
 News
 ------
-* **September '25:** First-author publication accepted at Neural Information Processing Systems (NeurIPS) 2025
+* **September '25:** First-author [paper](https://openreview.net/pdf?id=iQoZv77o3g) accepted at Neural Information Processing Systems (NeurIPS 2025)
 * **June '25:** Visiting [PennLINC](https://www.pennlinc.io/) lab for the summer
 * **November '24:** Presented first-year PhD research at Society for Neuroscience Conference 2024
 * **May '24:** Awarded National Defense Science and Engineering Graduate Fellowship ([NYU Tandon is now home to a National Defense Science and Engineering Graduate Fellow](https://engineering.nyu.edu/news/nyu-tandon-now-home-national-defense-science-and-engineering-graduate-fellow)) 
