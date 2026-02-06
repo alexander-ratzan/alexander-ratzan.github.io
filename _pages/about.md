@@ -28,9 +28,7 @@ More broadly, I’m curious about the intersection of natural and artificial int
 
 Background
 ------
-I received my Bachelor’s degree in Cognitive & Brain Sciences from Tufts University. At Tufts, I worked as an undergraduate research assistant at the [Tufts Human Computer Interaction Lab](https://tufts-hci-lab.github.io/) and the [Integrative Cognitive Neuroscience Lab](https://tuftsiconlab.weebly.com/). I also played on the Tufts men’s soccer team where I competed for four years and won two DIII National Championships.
-
-After undergrad, I worked as a data technician and analyst at Columbia University’s Department of Neurology and Biostatistics.
+I received my Bachelor’s degree in Cognitive & Brain Sciences from Tufts University. At Tufts, I worked as an undergraduate research assistant at the [Tufts Human Computer Interaction Lab](https://tufts-hci-lab.github.io/) and the [Integrative Cognitive Neuroscience Lab](https://tuftsiconlab.weebly.com/), which I complemented with data science and software development internships in industry (Merck, Mira Therapeutics). I also played on the Tufts men’s soccer team where I competed for four years and won two DIII National Championships. After undergrad, I worked as a data analyst at Columbia University’s Department of Neurology and Biostatistics.
 
 In my free time I enjoy biking, travelling, and supporting Arsenal FC.
 
