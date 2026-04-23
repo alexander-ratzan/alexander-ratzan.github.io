@@ -23,7 +23,7 @@ My research is focused on uncovering the relationship between genetics and brain
 
 More broadly, I’m curious about the intersection of natural and artificial intelligence and how we can improve AI systems to benefit human health.
 
-**Research Interests:** computational neuroscience, artificial intelligence, neuroimaging, genomics, deep learning for complex networks, genomic foundation models
+**Research Interests:** computational neuroscience, imaging-genomics, deep learning for complex networks, foundation models for biology
 
 
 Background
