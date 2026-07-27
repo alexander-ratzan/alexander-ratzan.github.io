@@ -35,6 +35,7 @@ In my free time I enjoy biking, travelling, and supporting Arsenal FC.
 
 News
 ------
+* **June '26:** Started internship in Genentech's Computational Sciences Center of Excellence (CS CoE)
 * **September '25:** First-author [paper](https://openreview.net/pdf?id=iQoZv77o3g) accepted at Neural Information Processing Systems (NeurIPS 2025)
 * **June '25:** Visiting [PennLINC](https://www.pennlinc.io/) lab for the summer
 * **November '24:** Presented first-year PhD research at Society for Neuroscience Conference 2024
